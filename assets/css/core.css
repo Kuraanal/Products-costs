@@ -571,7 +571,7 @@ select.input-field {
 }
 
 /* --- Mobile --- */
-@media (max-width: 768px) {
+@media (max-width: 925px) {
     .app-container {
         grid-template-columns: 1fr;
     }
